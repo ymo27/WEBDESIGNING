@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<h1>HTML Tags</h1>
+	</head>
+	<body>
+	    <ul>Basic Tags
+	    <li>< < !doctype > used for specifying which version of HTML the document is using</li>
+	    <li>< html > contains all other HTML tags</li>
+	    <li>< head > sets off the title</li>
+	    <li>< body > main content section</li>
+	    <li>< p > carete a new paragraph </li>
+	    </ul>
+	    <ul>Formatting
+	    <li>< div > block element</li>
+	    <li>< br > insert a line break</li>
+	    <li>< span >inline section in Document</li>
+	    <li>< abbr >to create abbreviation.</li>
+	    </ul>
+	    <ul>Text Tags
+	    <li>< h1 >page title</li>
+	    <li> < h2 > subheading</li>
+	    <li> < h3 > third heading</li>
+	    <li> < h4 > fourth heading</li>
+	    <li> < b >/ < strong >To bold text</li>
+	    <li>< em > convey the point </li>
+	    <li>< big > big Text</li>
+	    <li>< address >Create adress section</li>
+	    <li>< i >make the text to be italic</li>
+	    <li>< small > make the text to be small</li>
+	    <li>< sub > subscripted text </li>
+	    <li>< sup > superscripted text </li>
+	    <li>< ins >inserted text </li>
+	    <li>< del > to delete text </li>
+	    </ul>
+	    <ul>Links 
+	    <li>< a > hyperlink </li>
+	    <li>< a href=“URL” target=“_blank” > to open the link in a new window </li>
+	    <li>< a href=“URL” target=“myTab”> open the link in the new tab</li>
+	    <li>< a href="link here"> insert a link</li>
+	    <li>< img src="images/map.gif"> insert an image</li>
+	    </ul>
+	    <ul>Lists
+	    <li>< ul > umordered list</li>
+	    <li>< li > encompasses each list item</li>
+	    <li>< ol > ordered list</li>
+	    </ul>
+	    <ul>Attributs
+	    <li>< < p align =“center”/ “left”/”right”> Paragraph >To set the location of paragraph</li>
+	    <li>< < img src="tree.jpg" height="150px" width="150px“ border = “1px” alt="" /> To add detail of an image</li>
+	    <li>< img src="tree.jpg" height="50%" width="50%" border = 1% alt="" /> To add details into an image</li>
+	    </ul>
+	    <ul>Audio
+	    <li>< < audio src=“music.mp3” controls > to insert the audio</li>
+	    </ul>
+	    <ul>HTML 5
+	    <li>< header> to edit the header to the site</li>
+	    <li>< nav > to edit navigation section to the site </li>
+	    <li>< article > main content of the site </li>
+	    <li>< section > different section of the main content </li>
+	    <li>< aside > extra information of the site</li>
+	    <li>< footer> information about specfic area (copy right, privacy policy, etc) </li>
+	    <li>< audio> specifies the standard for embedding audio in web pages </li>
+	    <li>< video > embed a media player that supports video playback into a document</li>
+	    <li>< progree > to show progress on the webpage</li>
+	    </ul>
+	    <ul>Search Box
+	    <li>< input id="mysearch" name="searchitem" type="search" /> to create a search box </li>
+	    <li>< datalist > to create a list of pre-defined items</li>
+	    </ul>
+	</body>
+</heml>
+
+
