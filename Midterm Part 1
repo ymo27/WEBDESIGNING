@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+		<title> Beany Business </title>
+		<link rel="stylesheet" href="Example1.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<div class="block"></div>
+				<h1>Beany Coffee</h1>
+				<img class="logo" src="coffee.jpg"/>
+			</div>
+			<h2 class="name">Your Favorite Coffee Shop</h2>
+			<div class="content">
+				<div class="left">
+					<h2 class="menu">Menu</h2>
+					<table>
+					  <tr>
+						<td>AMERICANO 1.25</td>
+						<td>MOCHA 4.50</td>
+					  </tr>
+					  <tr>
+						<td>ESPRESSO 2.50</td>
+						<td>LATTE 5.10</td>
+					  </tr>
+					  <tr>
+						<td>RISITRETTO 3.10</td>
+						<td>VIENNA 6.27</td>
+					  </tr>
+					  <tr>
+						<td></td>
+						<td>GLACE 7.80</td>
+					  </tr>
+					  <tr>
+						<td></td>
+						<td>CAPPUCCINO 8.25</td>
+					  </tr>
+					  <tr>
+						<td></td>
+						<td>MACCHIATO 9.50</td>
+					  </tr>
+					  <tr>
+						<td></td>
+						<td>CON PANNA 0.95</td>
+					  </tr>
+					</table>
+				</div>
+				<div class="center"> 
+					<p>Insert a video</p>
+					<a target="_blank" href="https://www.youtube.com/watch?v=KgQXmecomWM">https://www.youtube.com/watch?v=KgQXmecomWM</a>
+				</div>
+				<div class="right">
+					<div class="happy-hour">
+						<span class="title">Happy Hour</span>
+						<span class="time">Wednesday 1:30pm-3:30pm</span>
+						<ul>
+						  <li>Latte BUY 2 Get 1 Free</li>
+						  <li>Cake 30% off</li>
+						  <li>Bread buy 1 get 1 Free</li>
+						</ul>
+					</div>
+					<div class="more">
+						<p><a href="https://www.baidu.com" target="_blank">Click here to know more about Beany Coffee</a></p>
+					</div>
+					<div class="address">
+						<span class="title">Coffee Shop Address</span>
+						<ul>
+						  <li>Somewhere in the Space</li>
+						  <li>Mercury 101</li>
+						  <li>Space, 00011</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
